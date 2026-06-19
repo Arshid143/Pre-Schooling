@@ -82,7 +82,7 @@ const data = {
 ],
 
 "ز":[
-{name:"زebra", img:"../../assets/zebra.webp"},
+{name:"زیبرا", img:"../../assets/zebra.webp"},
 {name:"زنجیر", img:"../../assets/chain.webp"}
 ],
 
